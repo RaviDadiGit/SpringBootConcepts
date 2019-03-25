@@ -1,0 +1,19 @@
+{
+"name":"ravi",
+"optional":"temp",
+"hello":"hello",
+"class":"class"
+"jsonList":
+	[
+	{"5","2"}
+	],
+	"subBean" : 
+		[
+            {"id": 2107},
+            {"id": 2127},
+            {"id": 2147},
+            {"id": 2167},
+            {"id": 2119}
+        ]
+
+}
